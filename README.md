@@ -1,4 +1,4 @@
-# Projeto-Extra-o-Transforma-o-e-Carga-de-Dados-ETL-IBM
+# Projeto: Análise de Ações e Receitas – Tesla e GameStop | IBM
 Projeto desenvolvido durante o curso de Data Science da IBM, com o objetivo de coletar, manipular e visualizar dados históricos do mercado financeiro, analisando a relação entre o preço das ações e a receita das empresas Tesla e GameStop.
 
 Durante o desenvolvimento, foram aplicadas técnicas de extração e análise de dados, incluindo:
